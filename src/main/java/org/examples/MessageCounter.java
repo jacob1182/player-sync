@@ -8,6 +8,7 @@ import java.util.Map;
  *
  * @apiNote
  * Each player has its own MessageCounter, and can not be shared between players
+ * @author jacob1182
  **/
 public class MessageCounter {
 

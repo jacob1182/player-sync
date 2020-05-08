@@ -2,6 +2,7 @@ package org.examples;
 
 /**
  * Represents a player in the system
+ * @author jacob1182
  * */
 public class Player implements MessageListener {
 

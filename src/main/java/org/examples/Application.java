@@ -1,5 +1,8 @@
 package org.examples;
 
+/**
+ * @author jacob1182
+ * */
 public class Application {
 
     static int messageResendLimit = 10;

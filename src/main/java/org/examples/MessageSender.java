@@ -7,6 +7,7 @@ import static java.util.Arrays.asList;
 
 /**
  * Mediator class to handle message communication
+ * @author jacob1182
  * */
 public class MessageSender {
 

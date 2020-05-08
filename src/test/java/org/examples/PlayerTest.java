@@ -7,6 +7,9 @@ import org.mockito.ArgumentCaptor;
 import static org.junit.jupiter.api.Assertions.*;
 import static org.mockito.Mockito.*;
 
+/**
+ * @author jacob1182
+ * */
 class PlayerTest {
 
     private MessageCounter messageCounter;
