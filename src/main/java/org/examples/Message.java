@@ -38,11 +38,11 @@ public class Message {
     }
 
     /**
-     * Updates the counter description in the payload.
+     * Returns a new Message instance with the same payload but using
+     * the provided counter description.
      *
      * @param count the new counter description
      * @return a message instance with the counter description updated
-     * @implNote A new message instance is returned to assure immutability
      * */
     public Message withMessageCount(int count) {
         return new Message(getFormattedPayload(count));
